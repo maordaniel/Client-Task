@@ -1,0 +1,22 @@
+body{
+    padding:10px;
+}
+
+.Home-page-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user-card {
+    height: 50vh;
+    overflow: auto;
+    margin-bottom: 30px;
+}
+
+.title{
+    display: flex;
+    margin-bottom: 10px;
+    text-align: center;
+}
