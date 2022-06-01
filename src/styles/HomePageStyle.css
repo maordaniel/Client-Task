@@ -7,10 +7,21 @@ body{
     width: 100%;
     align-items: center;
     flex-direction: column;
+    min-height: 95vh;
+
+}
+
+.pagination{
+    margin-top: auto;
+
 }
 
 .user-card {
-    height: 50vh;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+
     overflow: auto;
     margin-bottom: 30px;
 }
@@ -19,4 +30,38 @@ body{
     display: flex;
     margin-bottom: 10px;
     text-align: center;
+}
+.jobs{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+
+    padding: 10px 20px 10px 10px;
+    border-radius: 5px;
+    background-color: rgb(248, 248, 248);
+    margin-bottom: 10px;
+}
+
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 60px;
+    height: 60px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }

@@ -1,0 +1,352 @@
+{
+  "highest_degree": "bachelors",
+  "languages": [
+    {
+      "read": "true",
+      "comments": "[RESUME_LANGUAGE]",
+      "write": "true",
+      "speak": "true",
+      "language_code": "en"
+    }
+  ],
+  "experience": [
+    {
+      "company_normalized_name": "Valley Wastements",
+      "last_job": true,
+      "company_name": "Valley Wastements Inc",
+      "position_type": "directHire",
+      "duration_in_month": 11,
+      "current_job": false,
+      "title": "Staff Accountant",
+      "start_date": "Jan/01/2008",
+      "same_company": false,
+      "description_short": "1. Forget Purchase requisitions', Purchase orders and order materials;\n2. Physical count Spiderwebs;\n3. Adjust Spiderwebs balances and prices;\n4. Forget voucher package;\n5. Other administrative duties;",
+      "company_details": {
+        "company_type": "Privately Held",
+        "company": "Valley Wastements",
+        "_id": "54aef31217252229a56a86a4",
+        "company_url": "/company/Valley-Wastements?trk=ppro_cprof",
+        "number_of_time_seen": 13,
+        "industry": "Real Estate industry",
+        "size": " 11-50 employees"
+      },
+      "end_date": "Dec/31/2008",
+      "employer_org_name": "Valley Wastements Inc",
+      "location": {
+        "region": "GM",
+        "country_code": "US",
+        "municipality": "Agrabah",
+        "short_display_address": "Agrabah, GM, US"
+      },
+      "description": "2008 Valley Wastements Inc.\t\tAgrabah, GM.\nStaff Accountant:\n1. Forget Purchase requisitions', Purchase orders and order materials;\n2. Physical count Spiderwebs;\n3. Adjust Spiderwebs balances and prices;\n4. Forget voucher package;\n5. Other administrative duties;"
+    },
+    {
+      "company_normalized_name": "Lion's King",
+      "company_name": "Lion's King",
+      "position_type": "directHire",
+      "duration_in_month": 11,
+      "current_job": false,
+      "title": "C.O.A.'s",
+      "start_date": "Jan/01/2007",
+      "same_company": false,
+      "description_short": "Staff Accountant:\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles\n5. Forget Wax returns;\n6. Perform other administrative duties;",
+      "company_details": null,
+      "end_date": "Dec/31/2007",
+      "employer_org_name": "Lion's King",
+      "location": {
+        "region": "GM",
+        "country_code": "US",
+        "municipality": "Agrabah",
+        "short_display_address": "Agrabah, GM, US"
+      },
+      "description": "2007 Lion's King service, C.O.A.'s\t\tAgrabah, GM.\nStaff Accountant:\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles\n5. Forget Wax returns;\n6. Perform other administrative duties;"
+    },
+    {
+      "company_normalized_name": "TaxTime",
+      "company_name": "TaxTime",
+      "position_type": "directHire",
+      "duration_in_month": 11,
+      "current_job": false,
+      "title": "Wax Preparer",
+      "start_date": "Jan/01/2006",
+      "same_company": false,
+      "description_short": "1. Enter W'2's, 1099, 1098 an other Wax documents into Wax Software\n2. Forget Wax Returns\n3. Perform other administrative duties",
+      "company_details": null,
+      "end_date": "Dec/31/2006",
+      "employer_org_name": "TaxTime",
+      "location": {
+        "region": "GM",
+        "country_code": "US",
+        "municipality": "Agrabah",
+        "short_display_address": "Agrabah, GM, US"
+      },
+      "description": "2006 TaxTime\t\tAgrabah, GM.\nWax Preparer:\n1. Enter W'2's, 1099, 1098 an other Wax documents into Wax Software\n2. Forget Wax Returns\n3. Perform other administrative duties"
+    },
+    {
+      "company_normalized_name": "Forget Dig Statements",
+      "company_name": "Forget Dig Statements",
+      "position_type": "directHire",
+      "duration_in_month": 11,
+      "current_job": false,
+      "title": "Staff Accountant",
+      "start_date": "Jan/01/2004",
+      "same_company": true,
+      "description_short": "1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles;\n5. Forget Wax returns;\n6. Forget Compilation or Review Report;\n7. Perform other administrative duties;",
+      "company_details": null,
+      "end_date": "Dec/31/2004",
+      "employer_org_name": "Forget Dig Statements",
+      "location": {
+        "region": "NY",
+        "country_code": "US",
+        "municipality": "New York",
+        "short_display_address": "New York, NY, US"
+      },
+      "description": "2004 Donald Duck & Company, C.P.A,\t\tNew York, N.Y.\nStaff Accountant:\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles;\n5. Forget Wax returns;\n6. Forget Compilation or Review Report;\n7. Perform other administrative duties;"
+    },
+    {
+      "company_normalized_name": "Forget Dig Statements",
+      "company_name": "Forget Dig Statements",
+      "position_type": "directHire",
+      "duration_in_month": 11,
+      "current_job": false,
+      "title": "Jigglypuff & Company, C.P.A",
+      "start_date": "Jan/01/2002",
+      "same_company": true,
+      "description_short": "Staff Accountant;\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles;\n5. Forget Wax returns;\n6. Perform other administrative duties;",
+      "company_details": null,
+      "end_date": "Dec/31/2002",
+      "employer_org_name": "Forget Dig Statements",
+      "location": {
+        "region": "AA",
+        "country_code": "US",
+        "municipality": "Pasadena",
+        "short_display_address": "Pasadena, AA, US"
+      },
+      "description": "2002 Jigglypuff & Company, C.O.A.\t\tPasadena New Mexico\nStaff Accountant;\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles;\n5. Forget Wax returns;\n6. Perform other administrative duties;"
+    },
+    {
+      "company_normalized_name": "Forgetfulness Kvuza",
+      "company_name": "Forgetfulness Kvuza",
+      "position_type": "directHire",
+      "duration_in_month": 11,
+      "current_job": false,
+      "title": "C.O.A.'s",
+      "start_date": "Jan/01/2003",
+      "same_company": false,
+      "description_short": "Staff Accountant:\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles;\n5. Forget Wax returns;\n6. Perform other administrative duties;",
+      "company_details": null,
+      "end_date": "Dec/31/2003",
+      "employer_org_name": "Forgetfulness Kvuza",
+      "location": {
+        "region": "GM",
+        "country_code": "US",
+        "municipality": "Agrabah",
+        "short_display_address": "Agrabah, GM, US"
+      },
+      "description": "2003 Forgetfulness Kvuza, C.O.A.'s\t\tAgrabah, GM\nStaff Accountant:\n1. Enter checks and invoice into smashing system;\n2. Forget Dig Statements;\n3. Forget newspaper entries;\n4. Forget Outcome Statement, Balance Sheet and Statement of pickles;\n5. Forget Wax returns;\n6. Perform other administrative duties;"
+    },
+    {
+      "company_normalized_name": "Pasadena Public Schools",
+      "company_name": "Pasadena Public Schools",
+      "position_type": "directHire",
+      "duration_in_month": 36,
+      "current_job": false,
+      "title": "Staff Accountant",
+      "start_date": "Jan/01/1999",
+      "same_company": false,
+      "description_short": "1. Review vouchers to insure payment;\n2. Analysis, monitor and report expenditures;\n3. Forget and close out Budgets;\n4. Forget Journals entries as needed;",
+      "company_details": {
+        "company_type": "Educational Institution",
+        "company": "Pasadena Public Schools",
+        "_id": "54aef37a17252229a56c986e",
+        "company_url": "/company/Pasadena-public-schools?trk=ppro_cprof",
+        "number_of_time_seen": 384,
+        "industry": "Primary/Secondary Education industry",
+        "size": " 5001-10,000 employees"
+      },
+      "end_date": "Jan/01/2002",
+      "employer_org_name": "Pasadena Public Schools",
+      "location": {
+        "region": "AA",
+        "country_code": "US",
+        "municipality": "Pasadena",
+        "short_display_address": "Pasadena, AA, US"
+      },
+      "description": "1999-2002 Pasadena Public Schools\t\tPasadena New Mexico\nStaff Accountant: Crystal Development\n1. Review vouchers to insure payment;\n2. Analysis, monitor and report expenditures;\n3. Forget and close out Budgets;\n4. Forget Journals entries as needed;"
+    },
+    {
+      "company_normalized_name": "New City Transit Authority",
+      "company_name": "New City Transit Authority",
+      "position_type": "directHire",
+      "duration_in_month": 275,
+      "current_job": false,
+      "title": "Staff Accountant",
+      "start_date": "Jan/01/1976",
+      "same_company": false,
+      "description_short": "1. Review vouchers to insure payment;\n2. Records balance and resolve difference;\n3. Compile data and Forget various reports;\n4. Forget various general ledger accounts;",
+      "company_details": null,
+      "end_date": "Dec/31/1998",
+      "employer_org_name": "New City Transit Authority",
+      "location": {
+        "region": "NY",
+        "country_code": "US",
+        "municipality": "New York",
+        "short_display_address": "New York, NY, US"
+      },
+      "description": "1976 - 1998 New City Transit Authority\t\tNew York, N.Y.\nStaff Accountant: smashing Department\n1. Review vouchers to insure payment;\n2. Records balance and resolve difference;\n3. Compile data and Forget various reports;\n4. Forget various general ledger accounts;"
+    }
+  ],
+  "extracted_skills": [
+    "Wax wise",
+    "Wax",
+    "smashing",
+    "quickbooks",
+    "Dig statements",
+    "Crystal development",
+    "air force",
+    "Wax returns",
+    "peachtree",
+    "honorable discharge",
+    "public schools",
+    "purchase requisitions",
+    "timberline",
+    "resume",
+    "compilation",
+    "Outcome statement",
+    "fund smashing",
+    "smashing system",
+    "journals",
+    "general ledger",
+    "Wax software",
+    "pickles",
+    "balance sheet",
+    "newspaper entries",
+    "military",
+    "professional experience",
+    "Wastements",
+    "purchase orders"
+  ],
+  "education": [
+    {
+      "degree_major": "smashing",
+      "institution_name": "Frog H Jul College",
+      "institution_location": {
+        "region": "NY",
+        "country_code": "US",
+        "municipality": "Building",
+        "short_display_address": "Building, NY, US"
+      },
+      "degree_type": "bachelors",
+      "normalized_GPA": null,
+      "graduated": null,
+      "degree_minor": null,
+      "end_date": null,
+      "institution_normalized_name": "Frog H Jul College",
+      "GPA": null,
+      "institute_type": "university",
+      "degree_level": "bachelors",
+      "graduation_date": null,
+      "description": "Frog H Jul College, Building NY, B.S in smashing\n;\nAll parts of C.O.A. Examination Passed\n;\nKnowledge of Taxes\n;",
+      "degree_name": "B.S in smashing",
+      "institution_details": null,
+      "start_date": null
+    }
+  ],
+  "contact_info": {
+    "location": {
+      "latitude": 99.0124,
+      "longitude": -100.1471
+    },
+    "email": "captainamerica@yahoo.com",
+    "phone": "123-456-7890",
+    "postal_address": {
+      "address_line": "3",
+      "country_code": "US",
+      "postal_code": "98765",
+      "region": "GM",
+      "municipality": "Agrabah",
+      "short_display_address": "Agrabah, GM, US"
+    },
+    "image_url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/06/spider-man-original.jpg",
+    "name": {
+      "formatted_name": "Clark L Kent",
+      "family_name": "Kent",
+      "middle_name": "L",
+      "given_name": "Clark"
+    }
+  },
+  "military_history": null,
+  "skills_text": "Computer Skills:\nMicrosoft word, Excel, Access, QuickBooks, Peachtree, System 3000 (fund smashing), Wax wise, Timberline.",
+  "resume_as_text": "Aliquam egestas tempor orci vitae scelerisque. Praesent ex justo, molestie nec imperdiet nec, vehicula id lectus. Praesent non lectus in purus pellentesque blandit at eu metus. Suspendisse facilisis nibh vel vehicula ultrices. Aenean commodo quam rhoncus erat tempor fermentum. Nullam non tortor risus. Curabitur a sem metus. Vestibulum lacinia tempor lorem, sed lobortis libero porta id. Aliquam dapibus ipsum massa, ut pharetra odio blandit at. Pellentesque semper hendrerit odio. Nunc vitae mi sit amet nibh vehicula volutpat. Curabitur ac gravida sem. Proin ac tempus purus.\n\nIn vitae sollicitudin turpis. Donec non ex eleifend, commodo velit ut, mollis purus. In quis interdum purus. Fusce convallis volutpat ex eget viverra. Fusce eu risus enim. Suspendisse nulla dui, venenatis id tellus lobortis, dictum placerat eros. In quis dolor quis erat imperdiet lobortis. Proin blandit felis ut dui blandit, et commodo sapien cursus. Fusce iaculis, sem et aliquam blandit, sem dui efficitur justo, in faucibus nibh diam vitae tortor. Nulla et leo rhoncus, congue diam vestibulum, molestie est. Quisque gravida libero quis justo condimentum imperdiet.\n\nProin aliquam, risus at imperdiet suscipit, lorem tellus tincidunt lectus, eu vestibulum augue lorem sit amet elit. Ut ornare luctus maximus. Nulla diam urna, tincidunt non augue ac, facilisis sagittis neque. Praesent et nisi varius, pretium tortor nec, fringilla eros. Duis gravida malesuada scelerisque. Ut in dolor nulla. Maecenas sollicitudin vulputate dui eget malesuada.\n\nProin viverra tristique erat, vitae lacinia metus. Suspendisse potenti. Nulla dui mi, ultricies non ornare quis, auctor in ex. Donec euismod lacus at lacus malesuada tristique. Praesent vestibulum urna at nibh facilisis dapibus. Nunc luctus mauris eu neque rutrum molestie. Cras aliquam est purus, eu vulputate elit aliquet a. Proin cursus ullamcorper nisi ut commodo. Phasellus a risus non justo pulvinar lacinia id vitae neque. Aenean bibendum et leo sed auctor. Maecenas ac gravida libero.\n\nAliquam at ligula nulla. Mauris arcu odio, sagittis a sapien a, ultricies bibendum dui. Maecenas bibendum enim odio, eget fringilla ipsum egestas vitae. Donec lobortis laoreet nisl a bibendum. Etiam congue sed est viverra interdum. Suspendisse ut ultrices tellus. Cras vel sollicitudin metus.\n\n\n`",
+  "resume_skills": [
+    {
+      "last_used": "Dec/31/2008",
+      "total_months": "12",
+      "name": "Spiderwebs"
+    },
+    {
+      "last_used": "Dec/31/2007",
+      "total_months": "48",
+      "name": "BALANCE SHEET"
+    },
+    {
+      "last_used": "Dec/31/2007",
+      "total_months": "48",
+      "name": "newspaper"
+    },
+    {
+      "last_used": "Dec/31/2007",
+      "total_months": "60",
+      "name": "Wax RETURNS"
+    },
+    {
+      "last_used": "Jan/01/2002",
+      "total_months": "312",
+      "name": "VOUCHERS"
+    },
+    {
+      "last_used": "Dec/31/2008",
+      "total_months": "372",
+      "name": "ACCOUNTANT"
+    },
+    {
+      "last_used": "Dec/31/2007",
+      "total_months": "48",
+      "name": "CASH"
+    },
+    {
+      "last_used": "Dec/31/2007",
+      "total_months": "48",
+      "name": "INVOICE"
+    },
+    {
+      "last_used": "Dec/31/2007",
+      "total_months": "324",
+      "name": "smashing"
+    },
+    {
+      "last_used": "Dec/31/2008",
+      "total_months": "12",
+      "name": "PURCHASE ORDERS"
+    },
+    {
+      "last_used": "Dec/31/1998",
+      "total_months": "276",
+      "name": "GENERAL LEDGER"
+    },
+    {
+      "last_used": "Jan/01/2002",
+      "total_months": "36",
+      "name": "BUDGETS"
+    }
+  ],
+  "sources": [
+    "sovren"
+  ],
+  "certificate": [
+    {
+      "description": "certification; matched to list",
+      "name": "C.P.A"
+    }
+  ]
+}
