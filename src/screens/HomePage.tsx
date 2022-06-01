@@ -35,7 +35,7 @@ function HomePage(){
       .catch(err => setError(true))
   }
 
-  const onPageChange = (event: ChangeEvent<unknown>, page: number) => {
+  const onChangePage = (event: ChangeEvent<unknown>, page: number) => {
     const newPage = page - 1;
     if(newPage in users ){
       setCurrentUser(users[newPage])
@@ -52,7 +52,7 @@ function HomePage(){
     <div className="Home-page-container">
       {isLoading && <div className="loader"></div>}
       {currentUser && <User user={currentUser}/>}
-      <Pagination className="pagination" color="primary" count={pageCount} onChange={onPageChange}/>
+      <Pagination className="pagination" color="primary" count={pageCount} onChange={onChangePage}/>
     </div>
   )
 }
